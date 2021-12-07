@@ -1,0 +1,21 @@
+body{
+    width: 1000px;
+    margin: 20px;
+    height: 850px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    display: inline-block;
+    padding: 0 10px 0 0;
+    border-right: 2px solid grey;
+    margin-right: auto;
+    width: 300px;
+    height: 800px;
+    font-style: italic;
+}
+aside{
+    display: inline-block;
+    width: 650px;
+    vertical-align: top;
+    padding: 0 0 0 10px;
+}
